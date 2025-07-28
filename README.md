@@ -46,10 +46,6 @@ A data-driven dashboard project built in **Power BI** to analyze Electric Vehicl
 2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 3. Explore the dashboard interactively
 
----
-
-## 👩‍💻 Author
-
 ## 👩‍💻 Author
 
 **Hrishika Chourasia**  
